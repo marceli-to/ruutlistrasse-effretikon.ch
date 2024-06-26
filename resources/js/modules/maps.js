@@ -18,7 +18,7 @@ const initMap = () => {
         coordinates: [8.794962809625000,47.365660726960200]
       },
       properties: {
-        title: 'Wohnen Felsengrund',
+        title: 'Rütlistrasse Effretikon',
         description: 'Pfäffikon ZH'
       }
     }]
