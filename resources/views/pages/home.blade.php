@@ -14,7 +14,7 @@
     <div class="max-w-3xl">
       <h1 class="max-w-xl">Ein neuer Lebensraum in Effretikon</h1>
       <h2 class="text-xl mb-5">Erstvermietung</h2>
-      <p>An Toplage direkt beim Bahnhof Effretikon an der Brandrietstrasse / Rütlistrasse entsteht per Herbst 2026 ein attraktives Neubauprojekt mit modernen 2.5- bis 5.5-Zimmerwohnungen und wenige Gewerbeflächen bis ca. 300 m2.</p>
+      <p>An Toplage direkt beim Bahnhof Effretikon an der Brandrietstrasse / Rütlistrasse entsteht per Herbst 2026 ein attraktives Neubauprojekt mit modernen 2.5- bis 5.5-Zimmerwohnungen und wenige Gewerbeflächen bis ca. 300 m<sup>2</sup>.</p>
       <h3 class="mb-0">Sind Sie interessiert?</h3>
       <p>Gerne senden wir Ihnen weitere Informationen, sobald die Vermietung startet.<br>Bitte füllen Sie bei Interesse das Kontaktformular aus.      
     </div>

@@ -11,8 +11,6 @@
       </div>
     </div>
   @endif
-
-
   <h3>Ich interessiere mich für (bitte auswählen):</h3>
   <x-layout.grid class="sm:gap-y-15 lg:gap-x-25 lg:gap-y-20">
     <x-honeypot />
