@@ -9,6 +9,7 @@
 <meta property="og:description" content="@if(trim($__env->yieldContent('seo_description')))@yield('seo_description')@else{{config('seo.description')}}@endif">
 <meta property="og:url" content="{{url()->current()}}">
 <meta property="og:site_name" content="{{config('seo.title')}}">
+<meta property="og:image" content="{{ asset('opengraph') }}">
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 <meta name="csrf-token" content="{{ csrf_token() }}">
