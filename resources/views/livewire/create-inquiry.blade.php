@@ -27,14 +27,14 @@
         <div>
           <div class="mb-4">
             <x-form.checkbox name="interest" value="2.5-Zimmerwohnung" isWire="true" class="-mt-4" id="interest-25" />
-            <x-form.checkbox-label for="interest-25-EG">2.5-Zimmerwohnung</x-form.checkbox-label>
+            <x-form.checkbox-label for="interest-25">2.5-Zimmerwohnung</x-form.checkbox-label>
           </div>
           <div class="mb-4">
             <x-form.checkbox name="interest" value="3.5-Zimmerwohnung" isWire="true" class="-mt-4" id="interest-35" />
             <x-form.checkbox-label for="interest-35">3.5-Zimmerwohnung</x-form.checkbox-label>
           </div>
           <div>
-            <x-form.checkbox name="interest" value="4.5-Zimmerwohnung" isWire="true" class="-mt-4" id="interest-35" />
+            <x-form.checkbox name="interest" value="4.5-Zimmerwohnung" isWire="true" class="-mt-4" id="interest-45" />
             <x-form.checkbox-label for="interest-45">4.5-Zimmerwohnung</x-form.checkbox-label>
           </div>
         </div>
