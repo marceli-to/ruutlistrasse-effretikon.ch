@@ -26,26 +26,30 @@
       <div class="flex flex-col md:flex-row gap-y-7 md:gap-y-0 md:gap-x-40">
         <div>
           <div class="mb-4">
-            <x-form.checkbox name="interest" value="3.5-Zimmerwohnung (Erdgeschoss)" isWire="true" class="-mt-4" id="interest-35-EG" />
-            <x-form.checkbox-label for="interest-35-EG">3.5-Zimmerwohnung (Erdgeschoss)</x-form.checkbox-label>
+            <x-form.checkbox name="interest" value="2.5-Zimmerwohnung" isWire="true" class="-mt-4" id="interest-25" />
+            <x-form.checkbox-label for="interest-25-EG">2.5-Zimmerwohnung</x-form.checkbox-label>
+          </div>
+          <div class="mb-4">
+            <x-form.checkbox name="interest" value="3.5-Zimmerwohnung" isWire="true" class="-mt-4" id="interest-35" />
+            <x-form.checkbox-label for="interest-35">3.5-Zimmerwohnung</x-form.checkbox-label>
           </div>
           <div>
-            <x-form.checkbox name="interest" value="3.5-Zimmerwohnung (Obergeschoss)" isWire="true" class="-mt-4" id="interest-35-OG" />
-            <x-form.checkbox-label for="interest-35-OG">3.5-Zimmerwohnung (Obergeschoss)</x-form.checkbox-label>
+            <x-form.checkbox name="interest" value="4.5-Zimmerwohnung" isWire="true" class="-mt-4" id="interest-35" />
+            <x-form.checkbox-label for="interest-45">4.5-Zimmerwohnung</x-form.checkbox-label>
           </div>
         </div>
         <div>
           <div class="mb-4">
-            <x-form.checkbox name="interest" value="4.5-Zimmerwohnung (Erdgeschoss)" isWire="true" class="-mt-4" id="interest-45-EG" />
-            <x-form.checkbox-label for="interest-45-EG">4.5-Zimmerwohnung (Erdgeschoss)</x-form.checkbox-label>
+            <x-form.checkbox name="interest" value="4.5-Zimmerwohnung" isWire="true" class="-mt-4" id="interest-45-EG" />
+            <x-form.checkbox-label for="interest-45-EG">4.5-Zimmerwohnung</x-form.checkbox-label>
           </div>
           <div class="mb-4">
-            <x-form.checkbox name="interest" value="4.5-Zimmerwohnung (Obergeschoss)" isWire="true" class="-mt-4" id="interest-45-OG" />
-            <x-form.checkbox-label for="interest-45-OG">4.5-Zimmerwohnung (Obergeschoss)</x-form.checkbox-label>
+            <x-form.checkbox name="interest" value="5.5-Zimmerwohnung" isWire="true" class="-mt-4" id="interest-55" />
+            <x-form.checkbox-label for="interest-55">5.5-Zimmerwohnung</x-form.checkbox-label>
           </div>
           <div>
-            <x-form.checkbox name="interest" value="3.5-Zimmerwohnung (Attikageschoss)" isWire="true" class="-mt-4" id="interest-35-AT" />
-            <x-form.checkbox-label for="interest-35-AT">3.5-Zimmerwohnung (Attikageschoss)</x-form.checkbox-label>
+            <x-form.checkbox name="interest" value="Gewerbe" isWire="true" class="-mt-4" id="gewerbe" />
+            <x-form.checkbox-label for="gewerbe">Gewerbe</x-form.checkbox-label>
           </div>
         </div>
       </div>
