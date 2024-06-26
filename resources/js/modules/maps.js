@@ -3,7 +3,7 @@ const initMap = () => {
   var map = new mapboxgl.Map({
       container: 'map',
       style: 'mapbox://styles/marcelitoooo/ck16ms7m51nlo1cmwnqrbjuyq?optimize=true',
-      center: [8.794962809625000,47.365660726960200],
+      center: [8.689073034356971,47.42623069238678],
       zoom: 13
   });
   map.addControl(new mapboxgl.NavigationControl());
@@ -15,7 +15,7 @@ const initMap = () => {
       type: 'Feature',
       geometry: {
         type: 'Point',
-        coordinates: [8.794962809625000,47.365660726960200]
+        coordinates: [8.689073034356971,47.42623069238678]
       },
       properties: {
         title: 'Rütlistrasse Effretikon',
