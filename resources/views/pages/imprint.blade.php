@@ -5,21 +5,15 @@
   <x-layout.inner class="imprint">
     <h1>Impressum</h1>
     <p>
-      Morf Bautreuhand AG<br>
-      Schickmattweg 8<br>
-      8332 Russikon<br>
+      Muster AG<br>
+      Testweg 9<br>
+      8000 Zürich Russikon<br>
       <a 
-        href="mailto:hello@wohnen-felsengrund.ch" 
+        href="mailto:hello@ruetlistrasse-effretikon.ch" 
         target="_blank" 
         rel="noopener" 
         class="hover:underline underline-offset-2 decoration-1">
-        hello@wohnen-felsengrund.ch
-      </a><br>
-      <a href="https://www.morf-bautreuhand.ch" 
-        target="_blank" 
-        rel="noopener" 
-        class="hover:underline underline-offset-2 decoration-1">
-        www.morf-bautreuhand.ch
+        hello@ruetlistrasse-effretikon.ch
       </a>
     </p>
     <h2>Design und Entwicklung</h2>
