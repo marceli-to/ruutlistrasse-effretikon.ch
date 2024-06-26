@@ -40,10 +40,6 @@
         </div>
         <div>
           <div class="mb-4">
-            <x-form.checkbox name="interest" value="4.5-Zimmerwohnung" isWire="true" class="-mt-4" id="interest-45-EG" />
-            <x-form.checkbox-label for="interest-45-EG">4.5-Zimmerwohnung</x-form.checkbox-label>
-          </div>
-          <div class="mb-4">
             <x-form.checkbox name="interest" value="5.5-Zimmerwohnung" isWire="true" class="-mt-4" id="interest-55" />
             <x-form.checkbox-label for="interest-55">5.5-Zimmerwohnung</x-form.checkbox-label>
           </div>
