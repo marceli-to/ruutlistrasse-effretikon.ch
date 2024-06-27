@@ -53,8 +53,6 @@ class CreateInquiry extends Component
     $inquiry->interest = $interest_string;
     $inquiry->save();
 
-    dd($this->interest);
-
     Notification::route('mail', env('MAIL_TO'))->notify(new InquiryOwnerEmail($inquiry));
     Notification::route('mail', $inquiry->email)->notify(new InquiryUserEmail($inquiry));
 
