@@ -1,7 +1,7 @@
 <x-mail::message>
   <div class="text-base pb-base">
     Sehr geehrte Damen und Herren<br><br>
-    Danke für Ihr Interesse an unserem Projekt «Rütlistrasse Effretikon». Gerne kontaktieren wir Sie mit weiteren Informationen, sobald die offizielle Vermarktung startet.<br><br>
+    Danke für Ihr Interesse an unserem Projekt «Rütlistrasse Effretikon». Gerne kontaktieren wir Sie, sobald die offizielle Vermarktung startet.<br><br>
     Ihr Rütlistrasse Effretikon-Team
   </div>
   <br>
