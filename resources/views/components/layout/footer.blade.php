@@ -24,6 +24,13 @@
 </footer>
 @livewireScripts
 @vite('resources/js/app.js')
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CQR3W75S29"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-CQR3W75S29');
+</script>
 </body>
 </html>
 <!-- made with ❤ by stoz.ch & marceli.to -->
