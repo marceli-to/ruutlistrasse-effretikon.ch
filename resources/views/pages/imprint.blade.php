@@ -5,10 +5,9 @@
   <x-layout.inner class="imprint">
     <h1>Impressum</h1>
     <p>
-      Apleona Schweiz AG<br>
-      Industriestrasse 21<br>
-      8304 Wallisellen<br>
-      <a href="https://www.apleona.ch">www.apleona.ch</a>
+      RED Real Estate AG<br>
+      Seehofstrasse 4<br>
+      8008 Zürich
     </p>
     <h2>Design und Entwicklung</h2>
     <p>Stoz Werbeagentur AG<br>Barzloostrasse 2<br>8330 Pfäffikon ZH<br><a href="mailto:hello@stoz.ch" target="_blank" class="hover:underline underline-offset-2 decoration-1">hello@stoz.ch</a><br><a href="https://www.stoz.ch" target="_blank" rel="noopener" class="hover:underline underline-offset-2 decoration-1">www.stoz.ch</a></p>
