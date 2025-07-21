@@ -4,7 +4,7 @@
 </x-layout.section>
 @endif
 <footer>
-  <div class="bg-sky text-black text-sm py-5 px-15 md:px-25">
+  <div class="bg-bordeaux text-white text-sm py-5 md:py-10 px-15 md:px-25">
     <x-layout.inner>
       <nav>
         <ul class="flex gap-x-15 lg:gap-x-20">

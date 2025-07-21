@@ -19,8 +19,11 @@ export default {
       colors: {
         'navy': '#00466e',
         'sky': '#d0e3f8',
-        'graphite': '#3c3c3c',
+        'graphite': '#363737',
         'stone': '#919191',
+        'apricot': '#cfa686',
+        'bordeaux': '#511010',
+        'creme': '#f6f7f2',
       },
 
       fontFamily: {

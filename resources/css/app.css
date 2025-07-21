@@ -12,7 +12,7 @@ main {
 }
 
 h1, h2 {
-  @apply uppercase text-navy text-xl lg:text-2xl font-basic-bold font-bold
+  @apply uppercase text-graphite text-xl lg:text-2xl font-basic-bold font-bold
 }
 
 h1 {
@@ -24,7 +24,7 @@ h2 {
 }
 
 h3 {
-  @apply font-basic-bold font-bold text-navy uppercase text-base md:text-md tracking-wide mb-5
+  @apply font-basic-bold font-bold text-graphite uppercase text-base md:text-md tracking-wide mb-5
 }
 
 .imprint h2,
@@ -40,7 +40,7 @@ p {
   @apply mb-16 lg:mb-20;
 }
 
-p:last-of-type {
+p:last-child {
   @apply mb-0;
 }
 

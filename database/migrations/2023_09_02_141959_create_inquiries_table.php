@@ -11,18 +11,18 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('inquiries', function (Blueprint $table) {
-            $table->id();
-            $table->string('firstname');
-            $table->string('name');
-            $table->string('street');
-            $table->string('location');
-            $table->string('email');
-            $table->string('phone')->nullable();
-            $table->text('interest')->nullable();
-            $table->text('message')->nullable();
-            $table->timestamps();
-        });
+      Schema::create('inquiries', function (Blueprint $table) {
+        $table->id();
+        $table->string('firstname');
+        $table->string('name');
+        $table->string('street');
+        $table->string('location');
+        $table->string('email');
+        $table->string('phone')->nullable();
+        $table->text('interest')->nullable();
+        $table->text('message')->nullable();
+        $table->timestamps();
+      });
     }
 
     /**
@@ -30,6 +30,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('inquiries');
+      Schema::dropIfExists('inquiries');
     }
 };

@@ -4,11 +4,11 @@
     type="{{ $type }}" 
     wire:model="{{ $name }}" 
     placeholder="{{ $placeholder }}" 
-    class="bg-white rounded-sm py-6 pt-6 pb-9 w-full ring-0 focus:ring-0 border-none font-basic-regular text-navy placeholder:text-stone">
+    class="bg-white rounded-sm py-6 pt-6 pb-9 w-full ring-0 focus:ring-0 border-none font-basic-regular text-graphite placeholder:text-stone">
 @else
   <input 
     type="{{ $type }}" 
     name="{{ $name }}" 
     placeholder="{{ $placeholder }}" 
-    class="bg-white rounded-sm py-6 pt-6 pb-9 w-full ring-0 focus:ring-0 border-none font-basic-regular text-navy placeholder:text-stone">
+    class="bg-white rounded-sm py-6 pt-6 pb-9 w-full ring-0 focus:ring-0 border-none font-basic-regular text-graphite placeholder:text-stone">
 @endif
