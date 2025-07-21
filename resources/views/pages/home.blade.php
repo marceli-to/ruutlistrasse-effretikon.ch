@@ -24,7 +24,7 @@
 
 <x-layout.section class="bg-apricot text-bordeaux">
   <x-layout.inner>
-    <h2 class="text-bordeaux">Einzigartigkeit Erleben – Ihr Zuhause, Ihr Leben!</h2>
+    <h2 class="text-bordeaux max-w-xl">Einzigartigkeit Erleben – Ihr Zuhause, Ihr Leben!</h2>
     <h3 class="text-bordeaux">Erstvermietung Unique Living Effretikon</h3>
     <div class="max-w-3xl mb-16 lg:mb-20">An Toplage direkt beim Bahnhof Effretikon an der Brandrietstrasse 1,3,5 /  Rütlistrasse 7-17 entsteht per September und Oktober 2026 ein attraktives Neubauprojekt mit modernen 2.5- bis 5.5-Zimmerwohnungen, Atelierräumen und einer Gewerbefläche mit ca. 260 m<sup>2</sup>.</div>
     @livewire('create-inquiry')
