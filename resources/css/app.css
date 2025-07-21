@@ -20,7 +20,7 @@ h1 {
 }
 
 h2 {
-  @apply mb-10
+  @apply mb-15 lg:mb-25 leading-[1.15]
 }
 
 h3 {
