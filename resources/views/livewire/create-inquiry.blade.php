@@ -11,9 +11,9 @@
       </div>
     </div>
   @endif
-  <h3 class="text-bordeaux">
+  <h2 class="text-bordeaux">
     Sind Sie interessiert?
-  </h3>
+  </h2>
   <p>Gerne senden wir Ihnen weitere Informationen, sobald die Vermietung startet.<br>Bitte füllen Sie bei das untenstehende Kontaktformular aus.</p>
   <x-layout.grid class="sm:gap-y-15 lg:gap-x-25 lg:gap-y-20">
     <x-honeypot />
