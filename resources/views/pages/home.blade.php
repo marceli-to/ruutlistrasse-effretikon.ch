@@ -1,6 +1,6 @@
 @extends('app')
 @section('seo_title', 'Wohnen im schönen Zürcher Oberland')
-@section('seo_description', 'An Toplage direkt beim Bahnhof Effretikon an der Brandrietstrasse / Rütlistrasse entsteht per Herbst / Winter 2026 ein attraktives Neubauprojekt mit modernen 2.5- bis 5.5-Zimmerwohnungen und wenige Gewerbeflächen bis ca. 260 m2')
+@section('seo_description', 'An Toplage direkt beim Bahnhof Effretikon an der Brandrietstrasse / Rütlistrasse entsteht per Herbst / Winter 2026 ein attraktives Neubauprojekt mit modernen 2.5- bis 5.5-Zimmer-Wohnungen und wenige Gewerbeflächen bis ca. 260 m2')
 @section('content')
 
 <x-layout.section class="bg-white !p-0 relative">
@@ -15,7 +15,9 @@
     <div class="max-w-3xl text-bordeaux">
       <h1 class="max-w-xl text-bordeaux">Einzigartigkeit Erleben –<br>Ihr Zuhause, Ihr Leben!</h1>
       <h3 class="text-bordeaux">Erstvermietung Unique Living Effretikon</h3>
-      <div class="max-w-3xl">An Toplage direkt beim Bahnhof Effretikon an der Brandrietstrasse 1,3,5 /  Rütlistrasse 7-17 entsteht per September und Oktober 2026 ein attraktives Neubauprojekt mit modernen 2.5- bis 5.5-Zimmerwohnungen, Atelierräumen und einer Gewerbefläche mit ca. 260 m<sup>2</sup>.</div>
+      <div class="max-w-3xl">
+        An Toplage direkt beim Bahnhof Effretikon an der Brandrietstrasse 1,3,5 / Rütlistrasse 7-17 entsteht per August und September 2026 ein attraktives Neubauprojekt mit modernen 2.5- bis 5.5-Zimmer-Wohnungen, Atelierräumen und einer Gewerbefläche mit ca. 260 m<sup>2</sup>.
+      </div>
     </div>
   </x-layout.inner>
 </x-layout.section>
@@ -24,7 +26,7 @@
   <x-layout.inner>
     @livewire('create-inquiry')
     <div class="max-w-3xl mt-24 lg:mt-32">
-      <p >Wie freuen uns auf den Vermarktungsstart!<br>Ihr RED-Team</p>
+      <p >Wir freuen uns auf den Vermarktungsstart!<br>Ihr RED-Team</p>
       <div class="flex gap-x-20">
         <img src="/media/img/logo-red-real-estate.png" alt="Logo RED Real Estate AG" class="block mb-10 lg:mb-15 w-80 lg:w-90 h-auto" width="581" height="667" />
         <div>
